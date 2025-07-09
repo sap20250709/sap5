@@ -10,4 +10,4 @@
 
 <p>本页聚合多个原创视频与福利资源站点，包括P站中文平台与生活短片分享专区。内容每日更新，涵盖真实记录、二次元、创意搞笑等类型，适合多元兴趣用户。全部资源支持在线浏览，加载快速，体验丝滑不等待。</p>
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sap20250709/sap5 ）</span>
